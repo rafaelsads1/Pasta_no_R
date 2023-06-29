@@ -7,3 +7,5 @@
 # Novas funções
 1010*100
 50*50
+#Linha modificadas remotamente
+100*2585+15

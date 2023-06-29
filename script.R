@@ -2,4 +2,8 @@
 
 1+1
 2+2
+#Alterações aqui
 10*10
+# Novas funções
+1010*100
+50*50
